@@ -1,2 +1,2 @@
 # MultisetBloomFilterHadoopSpark
-In this project, we proposed a solution of the multiple set matching problem, defining a multi-set Bloom Filter. The new data structure presented in this project, has associated multiple sets of data and support the construction operation of all the sets through an efficient construction operation. An implementation based on the MapReduce paradigm is presented, specifically employing the Hadoop and Spark frameworks.
+In this project, we proposed a solution of the multiple set matching problem, defining a multi-set Bloom Filter. An implementation based on the MapReduce paradigm is presented, specifically employing the Hadoop and Spark frameworks.
