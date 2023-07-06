@@ -1,4 +1,4 @@
-# MultisetBloomFilterHadoopSpark
+# Multiset Bloom Filter: Hadoop and Spark implementations
 In this project, we proposed a solution for the **multiple-set** matching problem, defining a multi-set **Bloom** **Filter**.<br>
 A multi-set Bloom Filter is a space-efficient probabilistic data structure that allows to check the membership of an element in multiple sets.<br>
 The new data structure presented in this project has associated multiple sets of data and supports the construction operation of all the sets through an efficient construction operation.<br>
