@@ -4,7 +4,7 @@ A multi-set Bloom Filter is a space-efficient probabilistic data structure that 
 The new data structure presented in this project has associated multiple sets of data and supports the construction operation of all the sets through an efficient construction operation.<br>
 The IMDb dataset containing ratings of movies has been used as a reference for building and assessing the performances of the Bloom Filter.<br>
 An implementation based on the **MapReduce** paradigm is presented, specifically employing the **Hadoop** and **Spark** frameworks.<br>
-
+ 
 ## Project Structure
 The project is divided into two main modules:
 - BloomFilterHadoop: containing the implementation of the multi-set Bloom Filter in Java using the Hadoop Framework
